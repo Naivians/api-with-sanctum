@@ -31,12 +31,12 @@
 
 <p><strong>User</strong>: http://127.0.0.1:8000/api/user</p>
 <p><strong>Note: </strong> => user and the logout is protected by sanctum so in order to access these pages each request should have this header</p>
-<p><strong>(Header)</strong> => Authorization: Bearer <YOUR_TOKEN></p>
+<p><strong>(Header)</strong> => Authorization: Bearer (YOUR_TOKEN)</p>
 <p><strong>Return</strong> => TOKEN and USER OBJECTS</p>
 
 
 <p><strong>Logout</strong>: http://127.0.0.1:8000/api/logout</p>
-<p><strong>(Header)</strong> => Authorization: Bearer <YOUR_TOKEN></p>
+<p><strong>(Header)</strong> => Authorization: Bearer (YOUR_TOKEN)</p>
 <p><strong>Return</strong> => Logout Successfully</p>
 
 
