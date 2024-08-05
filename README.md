@@ -8,7 +8,7 @@
 5. go to config/sanctum.php and do your preferred setting or you can leave it as it is.
 
 <h2>API ENDPOINTS</h2>
-<p>this is for local development only. you may configure your proper domain during deployment.</p>
+<p>This is for local development only. you may configure your proper domain during deployment.</p>
 
 <p><strong>Register</strong>: http://127.0.0.1:8000/api/register</p>
 <p><strong>Parameters</strong></p>
