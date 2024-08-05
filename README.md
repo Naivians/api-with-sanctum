@@ -12,15 +12,15 @@ first things first do the following
 <h2>API ENDPOINTS</h2>
 <p>this is for local development only. you may configure your proper domain during deployment.</p>
 
-1. <p>Register</p> => http://127.0.0.1:8000/api/register
+1. <p><b>Register</b></p> => http://127.0.0.1:8000/api/register
    **Parameters**
     1. name
     2. email
     3. password
     4. password_confirmation => you name you parameters according to this
-**return** => **token** and **user object**
+<p><b>Return</b> **token** and **user object**</p>
        
-2. <p>Login</p> http://127.0.0.1:8000/api/login
+2. <p><b>Login</b></p> http://127.0.0.1:8000/api/login
    **Parameters**
    1. name
    2. email
