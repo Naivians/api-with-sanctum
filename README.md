@@ -1,4 +1,4 @@
-<h1>LARAVEL API WITH SANCTUM</h1>
+<h1 style="color: red;">LARAVEL API WITH SANCTUM</h1>
 
 If you want to use this as a reference
 first things first do the following
